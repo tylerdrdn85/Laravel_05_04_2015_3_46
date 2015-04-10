@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Xampp Apache">
+    <serverData>
+      <paths name="Apache1">
+        <serverdata>
+          <mappings>
+            <mapping deploy="Laravel_05_04_2015_3_46" local="$PROJECT_DIR$" web="storm/Laravel_05_04_2015_3_46/public/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Xampp Apache">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/public" web="storm\Laravel_05_04_2015_3_46\public" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="fifteen">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
+
